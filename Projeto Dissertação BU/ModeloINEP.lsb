@@ -1,0 +1,120 @@
+\contentsline {simb}{\hbox to\@tempdima {$v_a$\hfil }{Tens\~ao de Entrada na Fase `a' do Retificador [V]}}{4}{figure.caption.9}
+\contentsline {simb}{\hbox to\@tempdima {$v_b$\hfil }{Tens\~ao de Entrada na Fase `b' do Retificador [V]}}{4}{figure.caption.9}
+\contentsline {simb}{\hbox to\@tempdima {$v_c$\hfil }{Tens\~ao de Entrada na Fase `c' do Retificador [V]}}{4}{figure.caption.9}
+\contentsline {simb}{\hbox to\@tempdima {$v_o$\hfil }{Tens\~ao de Sa\IeC {\'\i }da [V]}}{4}{figure.caption.9}
+\contentsline {simb}{\hbox to\@tempdima {$i_o$\hfil }{Corrente de Sa\IeC {\'\i }da [A]}}{4}{figure.caption.9}
+\contentsline {simb}{\hbox to\@tempdima {$g_{1..6}$\hfil }{Sinais de comando dos tiristores}}{5}{figure.caption.10}
+\contentsline {simb}{\hbox to\@tempdima {$T_{1...6}$\hfil }{Tiristores controlados}}{5}{figure.caption.10}
+\contentsline {simb}{\hbox to\@tempdima {f\hfil }{Frequ\^encia de entrada [Hz]}}{5}{figure.caption.11}
+\contentsline {simb}{\hbox to\@tempdima {${v_A}'$\hfil }{Tens\~ao da fase `A' do lado prim\'ario do transformador de excita\c c\~ao [$V$]}}{7}{figure.caption.13}
+\contentsline {simb}{\hbox to\@tempdima {${v_B}'$\hfil }{Tens\~ao da fase `B' do lado prim\'ario do transformador de excita\c c\~ao [$V$]}}{7}{figure.caption.13}
+\contentsline {simb}{\hbox to\@tempdima {${v_C}'$\hfil }{Tens\~ao da fase `C' do lado prim\'ario do transformador de excita\c c\~ao [$V$]}}{7}{figure.caption.13}
+\contentsline {simb}{\hbox to\@tempdima {${L_{leak_{1..3}}}$\hfil }{Indut\^ancia de dispers\~ao do transformador do lado secund\'ario [$H$]}}{7}{figure.caption.13}
+\contentsline {simb}{\hbox to\@tempdima {${R_{sd_{1..3}}}$\hfil }{Resist\^encia s\'erie da indut\^ancia de dispers\~ao do lado secund\'ario [$\Omega $]}}{7}{figure.caption.13}
+\contentsline {simb}{\hbox to\@tempdima {$\tau _o$\hfil }{Constante de Tempo do Enrolamento de Campo da M\'aquina S\IeC {\'\i }ncrona [s]}}{7}{equation.2.2.1}
+\contentsline {simb}{\hbox to\@tempdima {$i_a$\hfil }{Corrente de entrada do retificador correspondente a fase `a' de entrada}}{11}{figure.caption.18}
+\contentsline {simb}{\hbox to\@tempdima {$S_{a_{1..4}}$\hfil }{Interruptores controlados do Retificador de Tens\~ao Trif\'asico S\'erie}}{12}{figure.caption.20}
+\contentsline {simb}{\hbox to\@tempdima {$S_{b_{1..4}}$\hfil }{Interruptores controlados do Retificador de Tens\~ao Trif\'asico S\'erie}}{12}{figure.caption.20}
+\contentsline {simb}{\hbox to\@tempdima {$S_{c_{1..4}}$\hfil }{Interruptores controlados do Retificador de Tens\~ao Trif\'asico S\'erie}}{12}{figure.caption.20}
+\contentsline {simb}{\hbox to\@tempdima {${i_A}'$\hfil }{Corrente de entrada correspondente a fase `A' de entrada referida ao lado prim\'ario do transformador}}{12}{figure.caption.20}
+\contentsline {simb}{\hbox to\@tempdima {${i_B}'$\hfil }{Corrente de entrada correspondente a fase `B' de entrada referida ao lado prim\'ario do transformador}}{12}{figure.caption.20}
+\contentsline {simb}{\hbox to\@tempdima {${i_C}'$\hfil }{Corrente de entrada correspondente a fase `C' de entrada referida ao lado prim\'ario do transformador}}{12}{figure.caption.20}
+\contentsline {simb}{\hbox to\@tempdima {$S_{\alpha _{1..4}}$\hfil }{Interruptores controlados do Retificador de Tens\~ao \textit {Scott} S\'erie}}{13}{figure.caption.21}
+\contentsline {simb}{\hbox to\@tempdima {$S_{\beta _{1..4}}$\hfil }{Interruptores controlados do Retificador de Tens\~ao \textit {Scott} S\'erie}}{13}{figure.caption.21}
+\contentsline {simb}{\hbox to\@tempdima {L\hfil }{Indutor}}{13}{figure.caption.21}
+\contentsline {simb}{\hbox to\@tempdima {C\hfil }{Capacitor}}{13}{figure.caption.21}
+\contentsline {simb}{\hbox to\@tempdima {$S_{1..6}$\hfil }{Interruptores Controlados}}{13}{figure.caption.22}
+\contentsline {simb}{\hbox to\@tempdima {$s_{1..6}$\hfil }{Fun\c c\~ao de comuta\c c\~ao dos interruptores.}}{18}{equation.3.1.1}
+\contentsline {simb}{\hbox to\@tempdima {$s_a$\hfil }{Fun\c c\~ao de comuta\c c\~ao correspondente ao bra\c co `a'}}{22}{equation.3.1.9}
+\contentsline {simb}{\hbox to\@tempdima {$s_b$\hfil }{Fun\c c\~ao de comuta\c c\~ao correspondente ao bra\c co `b'}}{22}{equation.3.1.9}
+\contentsline {simb}{\hbox to\@tempdima {$s_c$\hfil }{Fun\c c\~ao de comuta\c c\~ao correspondente ao bra\c co `c'}}{22}{equation.3.1.9}
+\contentsline {simb}{\hbox to\@tempdima {$\left \delimiter "426830A x_n \right \delimiter "526930B $\hfil }{Valor m\'edio quase instant\^aneo de uma vari\'avel $x_n$}}{23}{section.3.2}
+\contentsline {simb}{\hbox to\@tempdima {$T_{sw}$\hfil }{Per\IeC {\'\i }odo de comuta\c c\~ao}}{23}{section.3.2}
+\contentsline {simb}{\hbox to\@tempdima {$\omega _e$\hfil }{Frequ\^encia Angular de Entrada [rad/s]}}{24}{equation.3.2.11}
+\contentsline {simb}{\hbox to\@tempdima {$V_{\qopname \relax m{max}}$\hfil }{Tens\~ao de fase m\'axima}}{24}{equation.3.2.11}
+\contentsline {simb}{\hbox to\@tempdima {$f_e$\hfil }{Frequ\^encia Linear de Entrada [Hz]}}{24}{equation.3.2.12}
+\contentsline {simb}{\hbox to\@tempdima {M\hfil }{\'Indice de Modula\c c\~ao}}{25}{equation.3.2.14}
+\contentsline {simb}{\hbox to\@tempdima {$i_s$\hfil }{Corrente no interruptor [A]}}{26}{figure.caption.32}
+\contentsline {simb}{\hbox to\@tempdima {$v_s$\hfil }{Tens\~ao sobre o interruptor [V]}}{26}{figure.caption.32}
+\contentsline {simb}{\hbox to\@tempdima {$i_{s_n,md}$\hfil }{Corrente m\'edia no interruptor $S_n$ [A]}}{27}{equation.3.2.18}
+\contentsline {simb}{\hbox to\@tempdima {$i_{s_n,ef}$\hfil }{Corrente eficaz no interruptor $S_n$ [A]}}{27}{equation.3.2.20}
+\contentsline {simb}{\hbox to\@tempdima {$V_{s_n,max}$\hfil }{Tens\~ao m\'axima sobre o interruptor $S_n$ [V]}}{27}{equation.3.2.21}
+\contentsline {simb}{\hbox to\@tempdima {$V_{LL,max}$\hfil }{Tens\~ao eficaz de linha na entrada $S_n$ [V]}}{27}{equation.3.2.21}
+\contentsline {simb}{\hbox to\@tempdima {$I_{\qopname \relax m{max}}$\hfil }{Corrente M\'axima [A]}}{35}{equation.4.1.1}
+\contentsline {simb}{\hbox to\@tempdima {$i$\hfil }{Unidade imagin\'aria complexa}}{35}{equation.4.1.2}
+\contentsline {simb}{\hbox to\@tempdima {$\textbf {\mathversion {bold}T}_{\frac {\textbf {\mathversion {bold}$ \alpha \beta \gamma $}}{\textbf {\mathversion {bold}abc}}}$\hfil }{Matriz da Transformada de \textit {Clarke}}}{36}{equation.4.1.3}
+\contentsline {simb}{\hbox to\@tempdima {$i_\alpha $\hfil }{Corrente de entrada do retificador no eixo $\alpha $ [A]}}{36}{equation.4.1.4}
+\contentsline {simb}{\hbox to\@tempdima {$i_\beta $\hfil }{Corrente de entrada do retificador no eixo $\beta $ [A]}}{36}{equation.4.1.4}
+\contentsline {simb}{\hbox to\@tempdima {$i_\gamma $\hfil }{Corrente de entrada do retificador no eixo $\gamma $ [A]}}{36}{equation.4.1.4}
+\contentsline {simb}{\hbox to\@tempdima {$\mathaccentV {vec}17EI_{0..6}$\hfil }{Vetores do Retificador de Tens\~ao Trif\'asico}}{42}{figure.caption.46}
+\contentsline {simb}{\hbox to\@tempdima {$\mathaccentV {vec}17EI_{ref}$\hfil }{Vetor de Refer\^encia para a modula\c c\~ao vetorial}}{42}{equation.4.1.5}
+\contentsline {simb}{\hbox to\@tempdima {max\hfil }{Valor m\'aximo}}{44}{figure.caption.48}
+\contentsline {simb}{\hbox to\@tempdima {$\theta $\hfil }{\^Angulo da corrente/tens\~ao de entrada}}{45}{subsection.4.1.3}
+\contentsline {simb}{\hbox to\@tempdima {$T_{N,M}$\hfil }{Tempo de aplica\c c\~ao do vetor $N$ no setor $M$, para um per\IeC {\'\i }odo de comuta\c c\~ao}}{48}{figure.caption.52}
+\contentsline {simb}{\hbox to\@tempdima {$d_1..6$\hfil }{Raz\~ao C\IeC {\'\i }clica do Interruptor $S_1..6$}}{61}{figure.caption.58}
+\contentsline {simb}{\hbox to\@tempdima {$\textbf {\mathversion {bold}T}_{\frac {\textbf {\mathversion {bold}dq0}}{\textbf {\mathversion {bold}abc}}}$\hfil }{Matriz da Transformada de \textit {Park}}}{70}{equation.5.1.1}
+\contentsline {simb}{\hbox to\@tempdima {$\textbf {\mathversion {bold}T}_{\frac {\textbf {\mathversion {bold}abc}}{\textbf {\mathversion {bold}dq0}}}$\hfil }{Matriz da Transformada inversa de \textit {Park}}}{70}{equation.5.1.2}
+\contentsline {simb}{\hbox to\@tempdima {$d_{a,b,c}$\hfil }{Valor M\'edio Quase Instant\^aneo das fun\c c\~oes de comuta\c c\~ao dos bra\c cos a, b ou c.}}{71}{equation.5.1.3}
+\contentsline {simb}{\hbox to\@tempdima {$L$\hfil }{Indut\^ancia do filtro de entrada [H]}}{72}{figure.caption.68}
+\contentsline {simb}{\hbox to\@tempdima {$R_s$\hfil }{Resist\^encia S\'erie do indutor do filtro de entrada [$\Omega $]}}{72}{figure.caption.68}
+\contentsline {simb}{\hbox to\@tempdima {$C$\hfil }{Capacit\^ancia do filtro de entrada [F]}}{72}{figure.caption.68}
+\contentsline {simb}{\hbox to\@tempdima {$v_n$\hfil }{Tens\~ao de modo comum do retificador. [V]}}{72}{equation.5.1.5}
+\contentsline {simb}{\hbox to\@tempdima {${{\mathaccentV {vec}17Ev}_{F,abc}}$\hfil }{Vetor das tens\~oes de fase de alimenta\c c\~ao do RTT em coordenadas abc.}}{73}{equation.5.1.8}
+\contentsline {simb}{\hbox to\@tempdima {${{\mathaccentV {vec}17Ei}_{F,abc}}$\hfil }{Vetor das correntes de entrada filtradas do RTT em coordenadas abc.}}{73}{equation.5.1.9}
+\contentsline {simb}{\hbox to\@tempdima {$\mathaccentV {vec}17Ed_{abc}$\hfil }{Vetor dos VMQI das fun\c c\~oes de comuta\c c\~ao de bra\c co do RTT em coordenadas abc.}}{73}{equation.5.1.10}
+\contentsline {simb}{\hbox to\@tempdima {$i_{F,d}$\hfil }{Corrente de entrada filtrada de eixo direto [A]}}{76}{equation.5.1.25}
+\contentsline {simb}{\hbox to\@tempdima {$i_{F,q}$\hfil }{Corrente de entrada filtrada de eixo em quadratura [A]}}{77}{equation.5.1.26}
+\contentsline {simb}{\hbox to\@tempdima {$i_{F,q}$\hfil }{Corrente de entrada filtrada de modo comum [A]}}{77}{equation.5.1.27}
+\contentsline {simb}{\hbox to\@tempdima {$G_{id}(s)$\hfil }{Fun\c c\~ao de transfer\^encia de pequenos sinais de $i_{F,d}(s)$/$d_{d}(s)$}}{86}{equation.5.2.48}
+\contentsline {simb}{\hbox to\@tempdima {$G_{iq}(s)$\hfil }{Fun\c c\~ao de transfer\^encia de pequenos sinais de $i_{F,q}(s)$/$d_{q}(s)$}}{87}{equation.5.2.49}
+\contentsline {simb}{\hbox to\@tempdima {$I_{F,d}$\hfil }{Ponto de opera\c c\~ao da corrente de entrada filtrada de eixo direto [A]}}{87}{equation.5.2.50}
+\contentsline {simb}{\hbox to\@tempdima {$I_{F,q}$\hfil }{Ponto de opera\c c\~ao da corrente de entrada filtrada de eixo em quadratura [A]}}{87}{equation.5.2.51}
+\contentsline {simb}{\hbox to\@tempdima {$V_{rms}$\hfil }{Valor eficaz da tens\~ao de fase de alimenta\c c\~ao [V].}}{87}{table.caption.74}
+\contentsline {simb}{\hbox to\@tempdima {$p$\hfil }{Pot\^encia Instant\^anea [W]}}{88}{equation.5.2.52}
+\contentsline {simb}{\hbox to\@tempdima {$p_e$\hfil }{Pot\^encia instant\^anea de entrada do RTT.}}{89}{equation.5.2.53}
+\contentsline {simb}{\hbox to\@tempdima {$p_o$\hfil }{Pot\^encia instant\^anea de sa\IeC {\'\i }da do RTT.}}{89}{equation.5.2.54}
+\contentsline {simb}{\hbox to\@tempdima {$I_{F,d}$\hfil }{Ponto de opera\c c\~ao da corrente de entrada de eixo direto [A].}}{89}{equation.5.2.57}
+\contentsline {simb}{\hbox to\@tempdima {$C_i(s)$\hfil }{Compensador do controle das correntes de entrada do RTT.}}{89}{equation.5.2.58}
+\contentsline {simb}{\hbox to\@tempdima {$G_{p,i_o}(s)$\hfil }{Compensador do controle da corrente de sa\IeC {\'\i }da}}{93}{equation.5.2.64}
+\contentsline {simb}{\hbox to\@tempdima {$D_d$\hfil }{Ponto de Opera\c c\~ao da fun\c c\~ao de comuta\c c\~ao de bra\c co de eixo direto.}}{93}{equation.5.2.66}
+\contentsline {simb}{\hbox to\@tempdima {${G_{p,i_o}}'$\hfil }{Modelo de pequenos sinais simplificado de $i_o/d_d$.}}{94}{equation.5.2.67}
+\contentsline {simb}{\hbox to\@tempdima {$C_{pll}$\hfil }{Compensador da malha de controle do PLL.}}{95}{figure.caption.81}
+\contentsline {simb}{\hbox to\@tempdima {$v_\alpha $\hfil }{Tens\~ao na entrada do retificador no eixo $\alpha $.}}{95}{figure.caption.81}
+\contentsline {simb}{\hbox to\@tempdima {$v_\beta $\hfil }{Tens\~ao na entrada do retificador no eixo $\beta $.}}{95}{figure.caption.81}
+\contentsline {simb}{\hbox to\@tempdima {$q$\hfil }{pot\^encia reativa instant\^anea [IVA]}}{96}{equation.5.3.69}
+\contentsline {simb}{\hbox to\@tempdima {$\theta _{in}$\hfil }{\^Angulo de refer\^encia do diagrama de blocos do q-PLL [rad]}}{96}{figure.caption.82}
+\contentsline {simb}{\hbox to\@tempdima {$\theta _{o}$\hfil }{\^Angulo de sa\IeC {\'\i }da do diagrama de blocos do q-PLL [rad]}}{96}{figure.caption.82}
+\contentsline {simb}{\hbox to\@tempdima {$V_o$\hfil }{Valor m\'edio da Tens\~ao de Sa\IeC {\'\i }da [V]}}{99}{table.caption.83}
+\contentsline {simb}{\hbox to\@tempdima {$V_{LL,ef}$\hfil }{Valor eficaz da Tens\~ao de linha de alimenta\c c\~ao do RTT [V]}}{99}{table.caption.83}
+\contentsline {simb}{\hbox to\@tempdima {$\%THD_i$\hfil }{Taxa de Distor\c c\~ao Harm\^onica da corrente de entrada [\%]}}{99}{table.caption.83}
+\contentsline {simb}{\hbox to\@tempdima {$P_o$\hfil }{Pot\^encia Ativa na Sa\IeC {\'\i }da do RTT.}}{100}{equation.6.1.1}
+\contentsline {simb}{\hbox to\@tempdima {$\tau _o$\hfil }{Constante de tempo da carga [s].}}{100}{equation.6.1.3}
+\contentsline {simb}{\hbox to\@tempdima {$I_{a,pk;fn}$\hfil }{Valor de pico da componente fundamental da corrente de entrada do retificador [A]}}{101}{equation.6.2.5}
+\contentsline {simb}{\hbox to\@tempdima {$I_{a,ef;fn}$\hfil }{Valor eficaz da componente fundamental da corrente de entrada do retificador [A]}}{101}{equation.6.2.6}
+\contentsline {simb}{\hbox to\@tempdima {$R_{sd}$\hfil }{Resist\^encia S\'erie da Indut\^ancia de Dispers\~ao do Transformador Isolador [$\Omega $]}}{102}{table.caption.86}
+\contentsline {simb}{\hbox to\@tempdima {$R_{sd,ad}$\hfil }{Resist\^encia S\'erie adicional [$\Omega $]}}{103}{equation.6.3.7}
+\contentsline {simb}{\hbox to\@tempdima {$f_0$\hfil }{Frequ\^encia de corte do filtro de entrada [\textit {Hz}]}}{103}{subsection.6.3.2}
+\contentsline {simb}{\hbox to\@tempdima {$V_{C,max}$\hfil }{Tens\~ao m\'axima sobre o capacitor de filtragem [V]}}{103}{equation.6.3.8}
+\contentsline {simb}{\hbox to\@tempdima {$at_{f_{sw}}$\hfil }{Atenua\c c\~ao do filtro na frequ\^encia de comuta\c c\~ao}}{105}{table.caption.89}
+\contentsline {simb}{\hbox to\@tempdima {$\xi $\hfil }{Coeficiente de Amortecimento do Filtro de Entrada}}{105}{table.caption.89}
+\contentsline {simb}{\hbox to\@tempdima {$\phi $\hfil }{Defasagem imposta pelo filtro de entrada [rad]}}{105}{table.caption.89}
+\contentsline {simb}{\hbox to\@tempdima {$R_{s,on}$\hfil }{Resist\^encia de condu\c c\~ao do IGBT [$\Omega $]}}{108}{figure.caption.92}
+\contentsline {simb}{\hbox to\@tempdima {$R_{d,on}$\hfil }{Resist\^encia de condu\c c\~ao do diodo [$\Omega $]}}{108}{figure.caption.92}
+\contentsline {simb}{\hbox to\@tempdima {$V_{d,on}$\hfil }{Tens\~ao de condu\c c\~ao do diodo [V]}}{108}{figure.caption.92}
+\contentsline {simb}{\hbox to\@tempdima {$V_{s,on}$\hfil }{Tens\~ao de condu\c c\~ao do IGBT [V]}}{108}{figure.caption.92}
+\contentsline {simb}{\hbox to\@tempdima {$v_{ce}$\hfil }{Tens\~ao entre coletor e emissor em condu\c c\~ao do IGBT}}{108}{equation.6.4.18}
+\contentsline {simb}{\hbox to\@tempdima {$i_c$\hfil }{Corrente de coletor do IGBT}}{108}{equation.6.4.18}
+\contentsline {simb}{\hbox to\@tempdima {$P_S$\hfil }{Perdas totais no IGBT [W]}}{113}{equation.6.4.23}
+\contentsline {simb}{\hbox to\@tempdima {$P_{S,cond}$\hfil }{Perdas por condu\c c\~ao no IGBT [W]}}{113}{equation.6.4.23}
+\contentsline {simb}{\hbox to\@tempdima {$P_{S,com}$\hfil }{Perdas por comuta\c c\~ao no IGBT [W]}}{113}{equation.6.4.23}
+\contentsline {simb}{\hbox to\@tempdima {$P_D$\hfil }{Perdas totais no diodo [W]}}{113}{equation.6.4.24}
+\contentsline {simb}{\hbox to\@tempdima {$P_{D,cond}$\hfil }{Perdas por condu\c c\~ao no diodo [W]}}{113}{equation.6.4.24}
+\contentsline {simb}{\hbox to\@tempdima {$P_{D,com}$\hfil }{Perdas por comuta\c c\~ao no diodo [W]}}{113}{equation.6.4.24}
+\contentsline {simb}{\hbox to\@tempdima {$I_{o,ref}$\hfil }{Refer\^encia para o controle de corrente de sa\IeC {\'\i }da [A]}}{123}{figure.caption.108}
+\contentsline {simb}{\hbox to\@tempdima {$G_{SVM}(s)$\hfil }{Fun\c c\~ao de Transfer\^encia do Modulador SVM}}{123}{figure.caption.108}
+\contentsline {simb}{\hbox to\@tempdima {$K_{AD}$\hfil }{Ganho da convers\~ao anal\'ogico/digital}}{123}{figure.caption.108}
+\contentsline {simb}{\hbox to\@tempdima {$H_{i_o}(s)$\hfil }{Fun\c c\~ao de Transfer\^encia do circuito de aquisi\c c\~ao da corrente de sa\IeC {\'\i }da}}{123}{figure.caption.108}
+\contentsline {simb}{\hbox to\@tempdima {$R_g$\hfil }{Resistor do Circuito de Grampeamento da tens\~ao de sa\IeC {\'\i }da [$\Omega $]}}{138}{figure.caption.121}
+\contentsline {simb}{\hbox to\@tempdima {$C_g$\hfil }{Capacitor do Circuito de Grampeamento da tens\~ao de sa\IeC {\'\i }da [$F$]}}{138}{figure.caption.121}
+\contentsline {simb}{\hbox to\@tempdima {$V_g$\hfil }{Tens\~ao de Grampeamento da tens\~ao de sa\IeC {\'\i }da [V]}}{138}{figure.caption.121}
+\contentsline {simb}{\hbox to\@tempdima {$E_o$\hfil }{Energia armazenada no indutor de sa\IeC {\'\i }da [J]}}{148}{equation.7.5.3}

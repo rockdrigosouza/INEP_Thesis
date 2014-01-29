@@ -1,0 +1,1402 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2014.1.29)  29 JAN 2014 15:34
+entering extended mode
+**ModeloINEP.tex
+
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
+-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
+ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
+elsh, loaded.
+(C:\texmf\tex\latex\abntex\ufscThesis.cls
+Document Class: ufscThesis 
+(C:\texmf\tex\latex\abntex\abnt.cls (C:\texmf\tex\latex\abntex\cvs-id.def)
+Document Class: abnt 2004/11/02 v1.27.2.1 Classe abnt (NBR6024, NBR6027, NBR6028, NBR14724)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count79
+\calc@Bcount=\count80
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count81
+\calc@Cskip=\skip43
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count82
+\mult@box=\box26
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count83
+\c@collectmore=\count84
+\doublecol@number=\count85
+\multicoltolerance=\count86
+\multicolpretolerance=\count87
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count88
+\c@finalcolumnbadness=\count89
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\multicol@sort@counter=\count90
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count91
+\c@chapter=\count92
+\c@section=\count93
+\c@subsection=\count94
+\c@subsubsection=\count95
+\c@paragraph=\count96
+\c@subparagraph=\count97
+\c@figure=\count98
+\c@table=\count99
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\bibindent=\dimen112
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\ABNTanapindent=\skip48
+\ABNTsignwidth=\skip49
+\ABNTsignthickness=\skip50
+\ABNTsignskip=\skip51
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (C:\texmf\tex\latex\abntex\BUUFSCthesis.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count103
+\U@D=\dimen121
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ansinew.def"
+File: ansinew.def 2008/03/30 v1.1d Input encoding file
+))
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
+\UL@box=\box52
+\UL@hyphenbox=\box53
+\UL@skip=\skip52
+\UL@hook=\toks18
+\UL@height=\dimen122
+\UL@pe=\count104
+\UL@pixel=\dimen123
+\ULC@box=\box54
+Package: ulem 2012/05/18
+\ULdepth=\dimen124
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip53
+\subfigcapskip=\skip54
+\subfigcaptopadj=\dimen125
+\subfigbottomskip=\skip55
+\subfigcapmargin=\dimen126
+\subfiglabelskip=\skip56
+\c@subfigure=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@lotdepth=\count108
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip57
+\subfig@bottom=\skip58
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\carlisle\remreset.sty")))
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/04/14 v3.3-73 Customizing captions (AR)
+
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/04/14 v1.5-71 caption3 kernel (AR)
+\captionmargin=\dimen127
+\captionmargin@=\dimen128
+\captionwidth=\dimen129
+\caption@tempdima=\dimen130
+\caption@indent=\dimen131
+\caption@parindent=\dimen132
+\caption@hangindent=\dimen133
+)
+\c@ContinuedFloat=\count109
+Package caption Info: subfigure package is loaded.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen134
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen135
+\extrarowheight=\dimen136
+\NC@list=\toks19
+\extratabsurround=\skip59
+\backup@length=\skip60
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment')
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\cancel\cancel.sty
+Package: cancel 2000/03/12 v2.1 Cancel math terms
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\ae.sty"
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\aecompl.sty"
+Package: aecompl 1998/07/23 0.9 T1 Complements for AE fonts (D. Roegel)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count111
+\LTcapwidth=\dimen137
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@cols=\count112
+\LT@rows=\count113
+\c@LT@tables=\count114
+\c@LT@chunks=\count115
+\LT@p@ftn=\toks20
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen138
+\lightrulewidth=\dimen139
+\cmidrulewidth=\dimen140
+\belowrulesep=\dimen141
+\belowbottomsep=\dimen142
+\aboverulesep=\dimen143
+\abovetopsep=\dimen144
+\cmidrulesep=\dimen145
+\cmidrulekern=\dimen146
+\defaultaddspace=\dimen147
+\@cmidla=\count116
+\@cmidlb=\count117
+\@aboverulesep=\dimen148
+\@belowrulesep=\dimen149
+\@thisruleclass=\count118
+\@lastruleclass=\count119
+\@thisrulewidth=\dimen150
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\chngcntr\chngcntr.sty
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen151
+))
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\acronym\acronym.sty
+Package: acronym 2012/10/29 v1.38 Support for acronyms (Tobias Oetiker)
+
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5 Variant command support
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\xstring\xstring.sty
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\generic\xstring\xstring.tex
+\@xs@message=\write4
+\integerpart=\count120
+\decimalpart=\count121
+)
+Package: xstring 2013/2/28  v1.7a  String manipulations (C Tellechea)
+)
+\AC@clearlist=\toks22
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\phonetic\phonetic.sty
+\temp=\dimen152
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\mathcomp\mathcomp.sty
+Package: mathcomp 2001/01/07 v0.1f (TBo)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+\symTC=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `TC' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \dagger on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 48.
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count122
+\float@exts=\toks23
+\float@box=\box59
+\@float@everytoks=\toks24
+\@floatcapt=\box60
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip65
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen155
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count123
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count124
+\leftroot@=\count125
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count126
+\DOTSCASE@=\count127
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box61
+\strutbox@=\box62
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count128
+\c@MaxMatrixCols=\count129
+\dotsspace@=\muskip10
+\c@parentequation=\count130
+\dspbrk@lvl=\count131
+\tag@help=\toks25
+\row@=\count132
+\column@=\count133
+\maxfields@=\count134
+\andhelp@=\toks26
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks27
+\multlinegap=\skip66
+\multlinetaggap=\skip67
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count135
+\Hy@pagecounter=\count136
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count137
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count138
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count139
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count140
+\c@Item=\count141
+\c@Hfootnote=\count142
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count143
+\c@bookmark@seq@number=\count144
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip68
+)
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2012/08/31 v0.4t Insert pages of external PDF documents (AM)
+
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2012/08/31 v0.4t Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box63
+\AM@toc@title=\toks29
+\c@AM@survey=\count145
+\AM@templatesizebox=\box64
+)
+
+LaTeX Warning: Unused global option(s):
+    [cleardoublepage=plain].
+
+
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.aux"
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\abreviaturasesiglas.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\simbolos.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/01/chapter_01.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/02/chapter_02.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/03/chapter_03.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/04/chapter_04.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/05/chapter_05.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/06/chapter_06.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/07/chapter_07.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/08/chapter_08.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/Apendice/apendice01.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 120.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 120.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 307.28978pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 497.92325pt, 42.67912pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=307.28978pt
+* \textheight=497.92325pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-57.42455pt
+* \headheight=19.91684pt
+* \headsep=22.14322pt
+* \topskip=10.0pt
+* \footskip=19.91684pt
+* \marginparwidth=47.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\INEP\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count146
+\scratchdimen=\dimen167
+\scratchbox=\box65
+\nofMPsegments=\count147
+\nofMParguments=\count148
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count149
+\MPscratchDim=\dimen168
+\MPnumerator=\count150
+\makeMPintoPDFobject=\count151
+\everyMPtoPDFconversion=\toks31
+)
+Package gensymb Info: Math companion symbols found on input line 120.
+LaTeX Info: Redefining \degree on input line 120.
+LaTeX Info: Redefining \celsius on input line 120.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 120.
+LaTeX Info: Redefining \ohm on input line 120.
+Package gensymb Info: Using \textohm for \ohm on input line 120.
+Package gensymb Info: Using \textmu for \micro on input line 120.
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring OFF on input line 120.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count152
+)
+LaTeX Info: Redefining \ref on input line 120.
+LaTeX Info: Redefining \pageref on input line 120.
+LaTeX Info: Redefining \nameref on input line 120.
+
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.out")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.out")
+\@outlinefile=\write5
+ [1
+
+
+{C:/Users/INEP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]pdfTeX warning (ext4): destination with the same ident
+ifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.124 \folhaderosto[semficha]
+                              % Se nao quiser imprimir a ficha, � s� n�o usa... [0
+
+]
+Overfull \hbox (1.67532pt too wide) in paragraph at lines 124--124
+\T1/aer/m/n/9 de P�s-Gradua��o em En-ge-nha-ria El�-
+ []
+
+
+Overfull \hbox (1.37836pt too wide) in paragraph at lines 124--124
+\T1/aer/m/n/9 trica da Uni-ver-si-dade Fe-de-ral de Santa
+ []
+
+
+Overfull \hbox (0.78224pt too wide) in paragraph at lines 124--124
+[]\T1/aer/m/n/9 Orientador: Prof. Al-bert Eins-tein, Dr.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 \includepdf{ficha.pdf}
+                             [1] <ficha.pdf, id=86, page=1, 597.51233pt x 845.0471pt>
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 125.
+(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+File: ficha.pdf Graphic file (type pdf)
+
+<use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 125.
+(pdftex.def)             Requested size: 421.45595pt x 596.05487pt.
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 125.
+(pdftex.def)             Requested size: 421.45595pt x 596.05487pt.
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 125.
+(pdftex.def)             Requested size: 421.45595pt x 596.05487pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 \includepdf{ficha.pdf}
+                            
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 125.
+(pdftex.def)             Requested size: 421.45595pt x 596.05487pt.
+ [2 <E:/Dropbox/Rodrigo_Doc/Mestrado/4° Dissertação/Relatórios/Relatório de Dissertação/Dissertação_v5_3_2 comp
+ 0 error_2/ficha.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, d
+uplicate ignored
+<to be read again> 
+                   \relax 
+l.128 \folhaaprovacao
+                      [3
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.128 \folhaaprovacao
+                      [4
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.136 \paginadedicatoria
+                         [5]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already u
+sed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.136 \paginadedicatoria
+                         [6
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.137 \paginaagradecimento
+                           [7]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.137 \paginaagradecimento
+                           [8
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138 \paginaepigrafe
+                      [9]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138 \paginaepigrafe
+                      [10
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 \paginaresumo
+                    [11]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used,
+ duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 \paginaresumo
+                    [12
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 \paginaresumo
+                    [13
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \paginaabstract
+                      [14
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \paginaabstract
+                      [15
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.141 \listadefiguras
+                      [16
+
+]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.lof")
+\tf@lof=\write6
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.142 \listadetabelas
+                      [17]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.142 \listadetabelas
+                      [18
+
+]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.lot")
+\tf@lot=\write7
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.144 \include{abreviaturasesiglas}
+                                    [19]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\abreviaturasesiglas.tex"pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been alrea
+dy used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            *{Lista de Abreviaturas e Siglas} [20
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.85 	\end{longtable}
+                      [21])pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.144 \include{abreviaturasesiglas}
+                                    [22]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\simbolos.tex"
+Overfull \hbox (5.77148pt too wide) in alignment at lines 5--10
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.77148pt too wide) in alignment at lines 10--15
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.77148pt too wide) in alignment at lines 15--55
+ [] [] [] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 			\\ \hline
+                 
+Overfull \hbox (5.77148pt too wide) in alignment at lines 55--95
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.77148pt too wide) in alignment at lines 95--135
+ [] [] [] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 			\\ \hline
+                   [23
+
+
+
+]
+Overfull \hbox (5.77148pt too wide) in alignment at lines 135--175
+ [] [] [] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.175 			\\ \hline
+                   [24]
+Overfull \hbox (5.77148pt too wide) in alignment at lines 175--215
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.77148pt too wide) in alignment at lines 215--248
+ [] [] [] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.248 	\end{longtable}
+                       [25]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.248 	\end{longtable}
+                       [26])pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already u
+sed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.146 \include{simbolos}
+                         [27]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.147 \sumario
+               [28
+
+
+]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.toc")
+\tf@toc=\write8
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.147 \sumario
+               [29]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, dupl
+icate ignored
+<to be read again> 
+                   \relax 
+l.147 \sumario
+               [30
+
+]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/01/chapter_01.tex"
+Cap\'{\i }tulo 1.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+<Capitulos/01/figs/Designprototipov2.pdf, id=233, 2636.38882pt x 2044.20403pt>
+File: Capitulos/01/figs/Designprototipov2.pdf Graphic file (type pdf)
+
+<use Capitulos/01/figs/Designprototipov2.pdf>
+Package pdftex.def Info: Capitulos/01/figs/Designprototipov2.pdf used on input line 10.
+(pdftex.def)             Requested size: 307.28978pt x 238.2445pt.
+
+Overfull \hbox (2.18684pt too wide) in paragraph at lines 31--31
+ []|\T1/aer/m/n/9 Vetor| 
+ []
+
+
+Overfull \hbox (1.77579pt too wide) in paragraph at lines 31--31
+ []|\T1/aer/m/n/9 Interruptores 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 37--37
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 39--39
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 41--41
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 41--41
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 43--43
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 43--43
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 45--45
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Overfull \hbox (2.69319pt too wide) in paragraph at lines 45--45
+ []|$\OMS/cmsy/m/n/9  [][]$| 
+ []
+
+
+Overfull \hbox (2.60912pt too wide) in paragraph at lines 47--47
+ []|$\OMS/cmsy/m/n/9  \OML/cmm/m/it/9 I[]$| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+ <E:/Dropbox/Rodrigo_Doc/Mestrado/4° Dissertação/Relatórios/Relatório de Dissertação/Dissertação_v5_3_2 comp 0 
+error_2/Capitulos/01/figs/Designprototipov2.pdf>]) [2]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/02/chapter_02.tex"
+Cap\'{\i }tulo 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+
+Underfull \vbox (badness 2158) has occurred while \output is active []
+
+ [3
+
+
+
+]) [4]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/03/chapter_03.tex"
+Cap\'{\i }tulo 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 1.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+
+
+]
+Package hyperref Info: bookmark level for unknown sig defaults to 0 on input line 22.
+Package hyperref Info: bookmark level for unknown simb defaults to 0 on input line 26.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+<Capitulos/03/figs/tiger.jpg, id=282, 578.16pt x 433.62pt>
+File: Capitulos/03/figs/tiger.jpg Graphic file (type jpg)
+ <use Capitulos/03/figs/tiger.jpg>
+Package pdftex.def Info: Capitulos/03/figs/tiger.jpg used on input line 52.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+
+Overfull \hbox (39.60889pt too wide) in paragraph at lines 52--53
+ [] 
+ []
+
+
+LaTeX Warning: Citation `Bordalo02' on page 7 undefined on input line 59.
+
+
+LaTeX Warning: Citation `Coimbra84' on page 7 undefined on input line 59.
+
+
+LaTeX Warning: Citation `Clark86' on page 7 undefined on input line 59.
+
+
+LaTeX Warning: Citation `Sparrow80' on page 7 undefined on input line 59.
+
+) [7] [8 <E:/Dropbox/Rodrigo_Doc/Mestrado/4° Dissertação/Relatórios/Relatório de Dissertação/Dissertação_v5_3_2
+ comp 0 error_2/Capitulos/03/figs/tiger.jpg>]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/04/chapter_04.tex"
+Cap\'{\i }tulo 4.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+) [9
+
+
+
+]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/05/chapter_05.tex" [10
+
+
+
+]
+Cap\'{\i }tulo 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+) [11]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/06/chapter_06.tex" [12
+
+
+
+]
+Cap\'{\i }tulo 6.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 3.
+
+) [13]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/07/chapter_07.tex" [14
+
+
+
+]
+Cap\'{\i }tulo 7.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+) [15]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/08/chapter_08.tex" [16
+
+
+
+]
+Cap\'{\i }tulo 8.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]) [18]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.bbl" [19
+
+
+]) [20]
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/Apendice/apendice01.tex" [21
+
+
+] [22
+
+]
+Apendice A.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                \kern -1.66702pt
+(hyperref)                removed on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]) [24]
++-------------------------------------------------------------------+
+| Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
+|                  http://abntex.codigolivre.org.br                 |
++-------------------------------------------------------------------+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 289.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 289.
+
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\ModeloINEP.aux"
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\abreviaturasesiglas.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\simbolos.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/01/chapter_01.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/02/chapter_02.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/03/chapter_03.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/04/chapter_04.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/05/chapter_05.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/06/chapter_06.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/07/chapter_07.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/08/chapter_08.aux")
+("E:\Dropbox\Rodrigo_Doc\Mestrado\4° Dissertação\Relatórios\Relatório de Dissertação\Dissertação_v5_3_2 comp 0 
+error_2\Capitulos/Apendice/apendice01.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 289.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 289.
+Package rerunfilecheck Info: File `ModeloINEP.out' has not changed.
+(rerunfilecheck)             Checksum: 454B807FE87F8C550236040BFAF8C02B;1109.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 289.
+ ) 
+Here is how much of TeX's memory you used:
+ 11385 strings out of 493921
+ 180381 string characters out of 3144879
+ 303679 words of memory out of 3000000
+ 14206 multiletter control sequences out of 15000+200000
+ 35312 words of font info for 74 fonts, out of 3000000 for 9000
+ 849 hyphenation exceptions out of 8191
+ 42i,18n,45p,734b,553s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmbx5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cmextra/cmmib5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on ModeloINEP.pdf (56 pages, 914826 bytes).
+PDF statistics:
+ 466 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+

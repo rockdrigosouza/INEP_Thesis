@@ -1,0 +1,60 @@
+\chapter{Discretização do controlador PI}\label{tustincontrol}
+%\cite{Denizar,IvoBarbi01}
+
+Dada  a função do controlador PI:
+\[
+	PI(s)=K_{PI}\left(\frac{s+\omega _z}{s}\right)
+\]
+Pelo método de discretização de Tustin a variável $s$ deve ser substituída por:
+\[
+s=m\frac{z-1}{z+1}
+\]
+Desta maneira:
+\[
+	PI(z)=K_{PI}\frac{m\displaystyle\frac{z-1}{z+1}+\omega _z}{m\displaystyle\frac{z-1}{z+1}}
+\]
+Que pode ser reescrita como:
+\[
+PI(z)=K_{PI}\frac{mz-m+\omega _zz+\omega _z}{m(z-1)}
+\]
+Agrupando os coeficientes de termos semelhantes e multiplicando numerador e denominador por $z^{-1}$:
+\[
+PI(z)=K_{PI}\frac{z(m+\omega _z)+(\omega _z-m)}{m(z-1)}\cdot \frac{z^{-1}}{z^{-1}}
+\]
+O que resulta em:
+\[
+PI(z)=K_{PI}\frac{(m+\omega _z)+z^{-1}(\omega _z-m)}{m-mz^{-1}}
+\]
+Fazendo as devidas manipulações matemáticas e sabendo que $z$ representa um atraso unitário no tempo:
+
+\[
+mu[k]-mz^{-1}u[k]=K_{PI}(e[k](\omega_z+m)+z^{-1}e[k](\omega_z-m))
+\]
+
+\[
+mu[k]-mu[k-1]=K_{PI}(e[k](\omega_z+m)+e[k-1](\omega_z-m))
+\]
+
+\[
+mu[k]=mu[k-1]+K_{PI}(e[k](\omega_z+m)+e[k-1](\omega_z-m))
+\]
+
+\[
+u[k]=u[k-1]+\frac{K_{PI}}{m}(\omega_z+m)e[k]+\frac{K_{PI}}{m}(\omega_z-m)e[k-1]
+\]
+
+Definindo as variáveis $A$ e $B$:
+
+\[
+A=\frac{K_{PI}}{m}(\omega_z-m)
+\]
+
+\[
+B=\frac{K_{PI}}{m}(\omega_z+m)
+\]
+
+A equação a diferenças resultante, que será implementada no DSC, é:
+
+\[
+u[k]=u[k-1]+Be[k]+Ae[k-1]
+\]

@@ -1,0 +1,86 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.42.2.1 }
+
+\bibitem{lem}
+\abntrefinfo{LEM}{LEM}{2006}
+{LEM. \emph{Folha de dados - Transdutor de Corrente: LAH 25-NP}. 2006.}
+
+\bibitem{Akagi:2007}
+\abntrefinfo{Akagi, Watanabe e Aredes}{AKAGI; WATANABE; AREDES}{2007}
+{AKAGI, H.; WATANABE, E.~H.; AREDES, M. \emph{Instantaneous Power Theory and
+  Applications to Power Conditioning}. Hoboken: IEEE Press Series on Power
+  Engineering, 2007. 374~p.}
+
+\bibitem{cscexcit:2008}
+\abntrefinfo{Wang}{WANG}{2008}
+{WANG, C.~M. e~Jiandong Wu e Huibo Lou e Jiming Lu e Dan Wang~e W. Large
+  synchronous generator excitation system based on current source converters.
+\emph{Water Resources and Power}, Vol. 26, n.~3, June 2008.}
+
+\bibitem{Badin:2009}
+\abntrefinfo{Badin}{BADIN}{2009}
+{BADIN, A.~A.
+\emph{Retificadores Trifásicos com Fator de Potência Unitário Baseado nos
+  Transformadores Trifásicos/ Bifásicos}.
+Tese (Doutorado) --- Universidade de Santa Catarina (UFSC) - Instituto de
+  Eletrônica de Potência, 2009.}
+
+\bibitem{Drofenik:2005}
+\abntrefinfo{DROFENIK e KOLAR}{DROFENIK; KOLAR}{2005}
+{DROFENIK, U.; KOLAR, J.~W. A general scheme for calculating switching and
+  conduction-losses of power semiconductors in numerical circuit simulations of
+  power electronic systems. In:  \emph{International Power Electronics
+  Conference (IPEC)}. [S.l.: s.n.], 2005. p. 737 --744.
+ISSN 4-88686-065-6.}
+
+\bibitem{BaumannKolar:2007}
+\abntrefinfo{Baumann e Kolar}{BAUMANN; KOLAR}{2007}
+{BAUMANN, M.; KOLAR, J. Parallel connection of two three-phase three-switch
+  buck-type unity-power-factor rectifier systems with dc-link current
+  balancing.
+\emph{IEEE Transactions on Industrial Electronics}, v.~54, n.~6, p. 3042
+  --3053, dec. 2007.
+ISSN 0278-0046.}
+
+\bibitem{Neto:2004}
+\abntrefinfo{Neto}{NETO}{2010}
+{NETO, A.~R.
+\emph{Controle Preditivo Aplicado à Regulação de Tensão de Usinas
+  Hidrelétricas}.
+Dissertação (Mestrado) --- Universidade de Santa Catarina (UFSC) - Departamento
+  de Automação e Sistemas, 2010.}
+
+\bibitem{Barbi:1985}
+\abntrefinfo{Barbi}{BARBI}{1985}
+{BARBI, I. \emph{Teoria Fundamental do Motor de Indução}. Florianópolis,
+  Brasil: Editora da UFSC, 1985. 234~p.}
+
+\bibitem{steph-artic:2005}
+\abntrefinfo{Miller e Barbi}{MILLER; BARBI}{2005}
+{MILLER, S.; BARBI, I. Practical aspects of the unity power factor isolated
+  three-phase rectifier based on the scott transformer. In:  \emph{Applied
+  Power Electronics Conference and Exposition (APEC)}. [S.l.: s.n.], 2005.
+  v.~1, p. 621 -- 627 Vol. 1.}
+
+\bibitem{Badin-artic:2008}
+\abntrefinfo{Badin e Barbi}{BADIN; BARBI}{2008}
+{BADIN, A.; BARBI, I. Three-phase series-buck rectifier with split dc-bus based
+  on the scott transformer. In:  \emph{Power Electronics Specialists Conference
+  (PESC)}. [S.l.: s.n.], 2008. p. 516 --522.
+ISSN 0275-9306.}
+
+\bibitem{Barbi:2001}
+\abntrefinfo{Barbi}{BARBI}{2006}
+{BARBI, I. \emph{Eletrônica de Potência}. Sexta edição. Florianópolis, BR:
+  Edição do Autor, 2006. 315~p.}
+
+\bibitem{Denizar:2008}
+\abntrefinfo{I.}{I.}{2008}
+{I., M. D.~C. e B. \emph{Conversores CC-CC Básicos Não Isolados}.
+  Florianópolis, BR: Edição do Autor, 2008. 368~p.}
+
+\end{thebibliography}
